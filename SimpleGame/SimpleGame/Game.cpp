@@ -1,3 +1,4 @@
+/*  이건 파일 삭제하기 ( 0925 이전에 했던것)  ---> Game1.cpp 보면 됨.
 #include "Game.h"
 
 void Game::InitVariable()
@@ -63,3 +64,5 @@ void Game::Update()
 void Game::Render()
 {
 }
+
+*/
